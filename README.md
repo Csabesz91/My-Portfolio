@@ -9,4 +9,4 @@ CSS3
 
 
 Live Version : 
-https://csabesz91.github.io/portfolio/
+ https://csabesz91.github.io/My-Portfolio/
